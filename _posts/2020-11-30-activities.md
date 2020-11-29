@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seminars"
+title: "Activities"
 description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
 date:   2017-11-12 17:46:41 -0300
 categories: info
