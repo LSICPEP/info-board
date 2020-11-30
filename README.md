@@ -2,9 +2,9 @@
 Simple and responsive Jekyll theme for help center.
 
 # Attributions
-Theme: https://github.com/gustavoquinalha/jekyll-help-center-theme
-Animated GIFs: https://cliply.co/clips/
-Icons from: https://www.flaticon.com/
+- Theme: https://github.com/gustavoquinalha/jekyll-help-center-theme
+- Animated GIFs: https://cliply.co/clips/
+- Icons from: https://www.flaticon.com/
 
 
 # Color theme
