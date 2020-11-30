@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Information Center"
-email: gusquinalha@gmail.com
-description: "Simple and flexible Jekyll theme for help center."
+title: "Information Board"
+email: edwarddenicolas@gmail.com@gmail.com
+description: "Information board for ICPep Negros"
 baseurl: "/info-board"
 url: "lsicpep.github.io"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+twitter_username: "mustardhorror"
+github_username:  "bitfrost41"
 color_theme:  "#02ab15"
 color_text:  "#fff"
 language:  "en"

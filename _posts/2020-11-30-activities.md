@@ -1,22 +1,16 @@
 ---
 layout: post
 title: "Activities"
-description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
-date:   2017-11-12 17:46:41 -0300
+description: "Upcoming events, conferences, and anything under the sun."
+date:   2020-11-30 17:46:41 +1000
 categories: info
-by: 'Gustavo Quinalha'
+by: 'Frost'
 icon: 'users'
 questions:
-  - question: 'Seminar 001'
-    answer: '<b>What: </b>Some training<br><b>When: </b>Some training<br><b>Where: </b>Some where<br><b>Description: </b>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "person-1.gif"
-  - question: 'Seminar 002'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+  - question: 'Event 001'
+    answer: 'What: TBD<br>When: TBD<br>Where: TBD<br>Description: TBD.'
     image: "person-1.gif"
   - question: 'Webinar 001'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
+    answer: 'What: TBD<br>When: TBD<br>Where: TBD<br>Description: TBD.'
     image: "laptop-1.gif"
-  - question: 'Seminar 003'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "person-1.gif"
 ---

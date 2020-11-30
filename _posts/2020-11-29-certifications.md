@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Certifications"
-description: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-date:   2017-11-12 17:46:41 -0300
+description: "Computer Engineering certification detailed documentation."
+date:   2020-11-30 17:46:41 +1000
 categories: info
-by: 'Gustavo Quinalha'
+by: 'Frost'
 icon: 'cpu'
 questions:
   - question: 'Certified CpE'
