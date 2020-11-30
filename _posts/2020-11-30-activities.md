@@ -2,7 +2,7 @@
 layout: post
 title: "Activities"
 description: "Upcoming events, conferences, and anything under the sun."
-date:   2020-11-30 17:46:41 +1000
+date:   2020-11-30 17:46:41 1000
 categories: info
 by: 'Frost'
 icon: 'users'
