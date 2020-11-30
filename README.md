@@ -1,5 +1,5 @@
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
+# ICPEP | Information Board
+Static GitHub page for information dump
 
 # Attributions
 - Theme: https://github.com/gustavoquinalha/jekyll-help-center-theme
