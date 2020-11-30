@@ -9,8 +9,8 @@ icon: 'cpu'
 questions:
   - question: 'Certified CpE'
     answer: '<a href="https://drive.google.com/file/d/1Z0oubZ_NXNhYjiBaD6LNATdl3sgdQZxi/view?usp=sharing" style="color:green">Click here</a>'
-    image: "4.gif"
+    image: "rocket-1.gif"
   - question: 'Professional CpE'
     answer: '<a href="https://drive.google.com/file/d/1O3mwF28HSOEf_eIgGFUiMYIWToyUwv24/view?usp=sharing" style="color:green">Click here</a>'
-    image: "3.gif"
+    image: "rocket-2.gif"
 ---
