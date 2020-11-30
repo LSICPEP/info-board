@@ -4,7 +4,8 @@ Static GitHub page for information dump
 # Attributions
 - Theme: https://github.com/gustavoquinalha/jekyll-help-center-theme
 - Animated GIFs: https://cliply.co/clips/
-- Icons from: https://www.flaticon.com/
+- Icons: https://www.flaticon.com/
+- Pattern: https://www.svgbackgrounds.com/
 
 
 # Color theme
