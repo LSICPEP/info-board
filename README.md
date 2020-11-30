@@ -1,10 +1,12 @@
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
+# ICPEP | Information Board
+Static GitHub page for information dump
 
-# Demo
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
+# Attributions
+- Theme: https://github.com/gustavoquinalha/jekyll-help-center-theme
+- Animated GIFs: https://cliply.co/clips/
+- Icons: https://www.flaticon.com/
+- Pattern: https://www.svgbackgrounds.com/
 
-![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
 
 # Color theme
 edit in _config.yml
@@ -13,24 +15,15 @@ color_theme:  "#0081ff"
 color_text:  "#fff"
 ```
 
-# Install
-```
-git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
-```
-or
-```
-gem install jekyll-help-center-theme
-```
-https://rubygems.org/gems/jekyll-help-center-theme
-
-# How to use
+# Running locally
 ```
 bundle exec jekyll serve --livereload --watch
 ```
 Server address
 ```
-localhost:4000/jekyll-help-center-theme/
+localhost:4000/info-board/
 ```
+NOTE: There is currently an issue running Jekyll on Mac if ruby is installed using brew. I suggest running this on Linux or any WSL.
 
 # Post Example
 ```
