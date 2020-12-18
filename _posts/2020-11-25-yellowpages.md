@@ -7,7 +7,7 @@ categories: info
 by: 'Frost'
 icon: 'book'
 questions:
-  - question: 'Company TBD is hiring!'
-    answer: 'Check <b><a href="https://www.google.com" style="color:green">here</a></b>.'
-    image: "4.gif"
+  - question: 'JOB Opening @ ZEAL'
+    answer: 'Position: Software Tester<br>Email your resume to <b><a href="mailto:zeal.virtual@gmail.com" style="color:green">Zeal Virtual</a></b>.'
+    image: "zeal_1.png"
 ---
